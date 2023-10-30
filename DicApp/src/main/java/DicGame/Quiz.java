@@ -72,4 +72,8 @@ public class Quiz {
             e.printStackTrace();
         }
     }
+
+    void exportToFile() {
+
+    }
 }
